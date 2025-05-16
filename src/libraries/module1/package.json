@@ -1,0 +1,7 @@
+{
+  "name": "module1",
+  "private": true,
+  "dependencies": {
+    "network": "workspace:*"
+  }
+}
